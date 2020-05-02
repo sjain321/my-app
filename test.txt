@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 This is test file created to test Feature1 branch. 
 
 i dont know where to commit
 
 after this added at 05:00 PM
+=======
+Shirish Jain created this file on feature1 branch
+>>>>>>> feature1
